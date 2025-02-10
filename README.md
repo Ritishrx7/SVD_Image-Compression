@@ -1,5 +1,5 @@
 # Simulation in R  
-*Master 1 in Modelisation Statistique Project*  
+*Master 1 in Applied Mathematics with Statistical Modelling Project*  
 Université Franche-Comté, Besançon (2022–2023)  
 
 ## **Project Overview**  
